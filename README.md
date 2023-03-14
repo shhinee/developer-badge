@@ -6,7 +6,7 @@
 5. Спускаем ниже и в "Priveleged Gateway Intents" ставим "PRESENCE INTENT", "SERVER MEMBERS INTENT", "MESSAGE CONTENT INTENT"
 6. Далее заходим в "OAuth2" > "Url Generator"
 7. В "SCOPES" ставим "bot", в "BOT PERMISSIONS" "Administrator" и переходим по получившейся ссылке
-8. Авторизуем бота на сервер
+8. Авторизуем бота на ваш сервер
 9. Заходим в настройки сервера и включаем сообщество
 10. Скачиваем Python и Pycord
 11. Скачиваем main.py и в пятой строке вместо 'YOUR_TOKEN' вставляем токен, который мы сохранили в 4 пункте
