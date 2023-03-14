@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-TOKEN=''
+TOKEN='YOUR_TOKEN'
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix="+", intents=intents)
 
